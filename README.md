@@ -32,8 +32,4 @@ For the puropose of this program (using real-time crypto asset prices, NOTE: may
 5. Go to **APY Keys** tab and create a key (many keys can be generated)
 6. Paste the apy key in the code. Use it at your best.
 
-#### Contact
-My Name - Nico Bierti
-Project Link - 
-Linkedin - https://www.linkedin.com/in/nicolas-bierti-del-rey/
 ₿ Donations : bc1qx0l3zw79xck3f885qmqnk9drntd4ahj2uz0wfn
